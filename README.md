@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/expense-chart-with-react-MMotsgURWO)
+- Live Site URL: [Add live site URL here](https://expense-chart-react.onrender.com/)
 
 ## My process
 
@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://portfolio-new-a34w.onrender.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Tanmoy Sarkar Pranto](https://portfolio-new-a34w.onrender.com/)
+- Frontend Mentor - [@Tanmoy-Sarkar-Pranto](https://www.frontendmentor.io/profile/Tanmoy-Sarkar-Pranto)
