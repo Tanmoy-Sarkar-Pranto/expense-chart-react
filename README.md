@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/expense-chart-with-react-MMotsgURWO)
-- Live Site URL: [Add live site URL here](https://expense-chart-react.onrender.com/)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/expense-chart-with-react-MMotsgURWO)
+- Live Site URL: [live site](https://expense-chart-react.onrender.com/)
 
 ## My process
 
